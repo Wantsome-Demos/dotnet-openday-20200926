@@ -1,0 +1,1 @@
+# dotnet-openday-20200926
